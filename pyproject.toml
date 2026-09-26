@@ -1,0 +1,8 @@
+[build-system]
+requires=[]
+build-backend="setuptools.build_meta"
+[project]
+name="culture_festival"
+version="0.1.0"
+description="华服活动编排台服务"
+requires-python=">=3.10"
